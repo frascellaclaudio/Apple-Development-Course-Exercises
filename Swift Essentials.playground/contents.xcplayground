@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Welcome'/>
+        <page name='TOC'/>
+        <page name='1. Variables, Constants &amp; Basic Data Types'/>
+        <page name='2. Basic Operators'/>
+        <page name='3. Exercises'/>
+        <page name='4. Control Flow - Conditional'/>
+        <page name='5. Optionals'/>
+        <page name='6. Exercises'/>
+        <page name='7. Collections'/>
+        <page name='8. Exercises'/>
+        <page name='9. Control Flow - Loops'/>
+        <page name='10. Exercises'/>
+        <page name='11. Functions'/>
+        <page name='12. Exercises'/>
+    </pages>
+</playground>
